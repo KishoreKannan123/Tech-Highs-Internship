@@ -1,0 +1,7 @@
+Required python libraries:
+
+1)Kivy
+2)requests
+3)geocoder
+4)datetime
+5)pandas
